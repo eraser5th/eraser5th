@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[ポートフォリオ](https://portfolio-bck.pages.dev/)（作成中）
+
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=eraser5th&show_icons=ture&theme=vue" />
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraser5th&layout=compact&show_icons=true&theme=vue" />
