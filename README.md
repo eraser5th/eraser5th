@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[ポートフォリオ](https://portfolio-bck.pages.dev/)（作成中）
+[ポートフォリオ](https://eraser5th.dev)（作成中）
+
+[ブログ](https://eraser5th.dev/blog)（作成中）
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=eraser5th&show_icons=ture&theme=vue" />
